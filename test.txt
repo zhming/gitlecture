@@ -1,0 +1,11 @@
+hello
+world
+hello world
+welcome
+hello objective-c
+hello scala
+hello ruby
+hello swift
+hello golang
+hello C#
+hello c++
